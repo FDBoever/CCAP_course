@@ -1,6 +1,6 @@
 ---
 title: Phylogenetics
-parent: CCAPcource
+parent: CCAPcourse
 nav_order: 1
 --- 
 
