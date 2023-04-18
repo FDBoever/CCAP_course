@@ -1,6 +1,6 @@
 ---
 title: Phylogenetics
-parent: CCAPcource2021
+parent: CCAPcource
 nav_order: 1
 --- 
 
@@ -8,9 +8,9 @@ nav_order: 1
 
 F. De Boever & D. Green
 
- * [https://fdboever.github.io/CCAP_course_2021/
-](https://fdboever.github.io/CCAP_course_2021/)
- * All files used in this tutorial are accessible via [github](https://github.com/FDBoever/CCAP_course_2021)
+ * [https://fdboever.github.io/CCAP_course/
+](https://fdboever.github.io/CCAP_course/)
+ * All files used in this tutorial are accessible via [github](https://github.com/FDBoever/CCAP_course/)
 
 
 
