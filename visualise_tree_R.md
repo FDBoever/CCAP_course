@@ -2,7 +2,7 @@
 title: "Visualise trees in R"
 author: "F. De Boever"
 date: "24/02/2021"
-parent: CCAPcource2021
+parent: CCAPcource
 nav_order: 5
 output: 
   html_document: 
