@@ -1,6 +1,6 @@
 ---
 title: Taxonomic identification
-parent: CCAPcource2021
+parent: CCAPcource
 nav_order: 2
 --- 
 
@@ -34,14 +34,14 @@ install.packages("dplyr")
   
 
 ### How to access course files?
- * [https://fdboever.github.io/CCAP_course_2021/
-](https://fdboever.github.io/CCAP_course_2021/)
- * All files used in this tutorial are accessible via [github](https://github.com/FDBoever/CCAP_course_2021)
+ * [https://fdboever.github.io/CCAP_course/
+](https://fdboever.github.io/CCAP_course/)
+ * All files used in this tutorial are accessible via [github](https://github.com/FDBoever/CCAP_course)
 
 <br>
  
 ## Step 1: Download the script
-go to the [github repository](https://github.com/FDBoever/CCAP_course_2021) and download the folder
+go to the [github repository](https://github.com/FDBoever/CCAP_course) and download the folder
 
 
 Inside the folder you will find the R script called `Taxonomic_ID_with_Dada2.R`. Don't hesitate to have a look inside, and try to understand how the script is build up and what it may do. You can open it with R, or in any text-editor such as notepad, textEdit or BBedit.
