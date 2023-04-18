@@ -1,6 +1,6 @@
 ---
 title: Taxonomic identification
-parent: CCAPcource
+parent: CCAPcourse
 nav_order: 2
 --- 
 
