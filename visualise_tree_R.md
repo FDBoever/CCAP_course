@@ -19,7 +19,7 @@ In this short tutorial we show how to use `ggtree` to quickly visualise and anno
 ## Let's keep going
 
 ```r
-# for general data maniuplarion
+# for general data manipulation
 library(dplyr)
 
 # for visualisation
